@@ -1,0 +1,6 @@
+A:\Yandex\Yandex\bin\Debug\Yandex.exe
+A:\Yandex\Yandex\bin\Debug\Yandex.pdb
+A:\Yandex\Yandex\obj\Debug\Yandex.csproj.CoreCompileInputs.cache
+A:\Yandex\Yandex\obj\Debug\Yandex.exe
+A:\Yandex\Yandex\obj\Debug\Yandex.pdb
+A:\Yandex\Yandex\bin\Debug\Yandex.exe.config
